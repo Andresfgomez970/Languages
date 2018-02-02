@@ -49,3 +49,6 @@ python Autograde.py -q Quiz1.txt -w Lesson22_25words.txt, obtaining as result:
 
 Now, if the -q file and the -w file are not specified it will take as default Quiz.txt and Lessonwords.txt in the folder "files".
 
+# Software 
+
+At the moment python 2.7
