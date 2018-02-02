@@ -1,7 +1,7 @@
 
-## Getting started 
+# Getting Started 
 
-Basically it recives a file in the following format
+Basically it recives a file in the following format:
 
 
 ### ----------------Quiz1.txt------------------ here begins
